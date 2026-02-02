@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Confetti from "react-confetti";
 import "./App.css";
 
-const GIRLFRIEND_NAME = "Karishma ❤️";
+const GIRLFRIEND_NAME = "Pooja ❤️";
 
 function FloatingHearts() {
   const [hearts] = useState(() =>
